@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg_daniel",
+  "version": "1.0.0",
+  "description": "Radom String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmedinaarmada/random-str-msg_daniel.git"
+  },
+  "keywords": [],
+  "author": "Daniel Medina <daniel@medinaarmada.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielmedinaarmada/random-str-msg_daniel.git/issues"
+  },
+  "homepage": "https://github.com/danielmedinaarmada/random-str-msg_daniel.git#readme",
+  "bin": {
+    "random-str-msg_daniel": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
